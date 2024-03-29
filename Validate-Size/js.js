@@ -1,6 +1,22 @@
 const input = document.querySelector('input[type="file"');
 const userInfo = document.getElementById('infos');
 
+input.addEventListener('change', () => {
+    validatesize();
+})
+
+document.querySelector('form').addEventListener('Select', (e) => {
+    e.preventDefault();
+    const result = validatesize();
+    if (result) {
+        throw result;
+    }
+
+    // Upload Code
+    userInfo.textContent = "Uploading starting !!!"
+
+})
+
 // Validate Size
 
 function validatesize() {
