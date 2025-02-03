@@ -1,28 +1,28 @@
 # 📂 File System Access API Tutorial  
 
-Ce projet est un simple tutoriel démontrant l'utilisation de l'API File System Access pour lire et écrire des fichiers dans un navigateur web.  
+This project is a simple tutorial demonstrating the use of the File System Access API to read and write files in a web browser.  
 
-## 📁 Contenu du Projet  
+## 📁 Project Contents  
 
-- 📝 `index.html` : Le fichier HTML principal contenant la structure de la page.  
-- 🎨 `styles.css` : Le fichier CSS pour le style de la page.  
-- ✍️ `script.js` : Le fichier JavaScript pour les fonctionnalités de lecture et d'écriture de fichiers.  
+- 📝 `index.html`: The main HTML file containing the page structure.  
+- 🎨 `styles.css`: The CSS file for styling the page.  
+- ✍️ `script.js`: The JavaScript file for the read and write file functionalities.  
 
-## 🚀 Fonctionnalités  
+## 🚀 Features  
 
-- 📖 **Lire un fichier** : Permet de sélectionner et lire le contenu d'un fichier local.  
-- ✏️ **Écrire un fichier** : Permet de créer et d'écrire dans un fichier local.  
+- 📖 **Read a file**: Allows you to select and read the content of a local file.  
+- ✏️ **Write a file**: Allows you to create and write to a local file.  
 
-## 🛠️ Utilisation  
+## 🛠️ Usage  
 
-1. 📌 Ouvrez `index.html` dans un navigateur compatible avec l'API File System Access.  
-2. 📂 Cliquez sur "Read File" pour lire un fichier.  
-3. 💾 Cliquez sur "Write File" pour écrire un fichier.  
+1. 📌 Open `index.html` in a browser that supports the File System Access API.  
+2. 📂 Click on "Read File" to read a file.  
+3. 💾 Click on "Write File" to write a file.  
 
-## ⚙️ Prérequis  
+## ⚙️ Prerequisites  
 
-- 🌐 Un navigateur moderne prenant en charge l'API File System Access (ex : Google Chrome).  
+- 🌐 A modern browser that supports the File System Access API (e.g., Google Chrome).  
 
-## 👨‍💻 Auteur  
+## 👨‍💻 Author  
 
 - 🏷️ [osamaal](https://github.com/alaosama)
